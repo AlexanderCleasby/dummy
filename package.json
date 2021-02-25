@@ -1,0 +1,9 @@
+{
+  "name": "dummy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "rcg-builders": "git+ssh://git@github.com:RockCreekGroup/rcg-builders.git"
+  }
+}
