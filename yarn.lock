@@ -1240,7 +1240,7 @@ qs@~6.5.2:
 
 "rcg-builders@git+ssh://git@github.com:RockCreekGroup/rcg-builders.git":
   version "1.0.1"
-  resolved "git+ssh://git@github.com:RockCreekGroup/rcg-builders.git#66d7bee42ad3afb05ce8b90cda020babc471fb41"
+  resolved "git+ssh://git@github.com:RockCreekGroup/rcg-builders.git#7d2629d8a235e3d774d62d2fa6b28685acc93cad"
   dependencies:
     "@types/faker" "^5.1.4"
     "@types/node" "^14.14.9"
